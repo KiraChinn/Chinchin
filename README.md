@@ -21,6 +21,5 @@
       of five months old. I am a male and an orange cat or also known as ginger cat. My hobbies are playing, eating, and mostly my favorite is sleeping.
       I currently living in my beloved Chinee's house which they provide me a better life and home to stay, they include me as a part of their family. </p>
       <a href="https://youtu.be/jzlfgpwYh_I?si=wN7tTzMn1885HOXP"> link you can see mochi playing </a>
-      <img src="kelly.jpg" alt="Image" usemap="#Imagemap" width="400" height="379">
 </body>
 </html>
